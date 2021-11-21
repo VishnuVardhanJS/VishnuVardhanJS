@@ -4,7 +4,7 @@
       
 <div align='center' display='flex'>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnu2003&show_icons=true&locale=en&theme=synthwave&bg_color=#2C3E50,#FD746C" alt="vishnu2003" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnu2003&show_icons=true&locale=en&theme=synthwave&layout=compact" alt="vishnu2003" /></p>
 
 </div>
 
