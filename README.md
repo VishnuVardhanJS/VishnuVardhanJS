@@ -2,7 +2,7 @@
 <h3 align="center">Also known as "DSVV" to other people. <br> <br>
 </h3> 
       
-<div align='center' display='flex'>
+<div align='center'>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnu2003&show_icons=true&locale=en&theme=synthwave&layout=compact" alt="vishnu2003" /></p>
 
