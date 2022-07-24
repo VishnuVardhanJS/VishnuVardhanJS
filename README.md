@@ -1,4 +1,4 @@
-<h2 align="center"> Hi, I'm J S Vishnu Vardhan</h2> 
+<h2 align="center"> Hi, I'm Vishnu Vardhan</h2> 
 <h3 align="center">Also known as "DSVV" to other people. <br> <br>
 </h3> 
       
