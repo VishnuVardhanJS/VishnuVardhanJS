@@ -25,10 +25,10 @@
 <a href="https://www.facebook.com/vishnusrinivasan76/" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white">
 </a>
-<a href="https://www.instagram.com/the_un_interrupted_gamer/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
-</a>
-<a href="mailto:jaisrini76@gmail.com" target="_blank">
+
+
+
+<a href="mailto:vishnuvardhanjs@proton.me" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
 </a>
 </div>
