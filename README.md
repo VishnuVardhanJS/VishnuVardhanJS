@@ -6,8 +6,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VishnuVardhanJS&show_icons=true&locale=en&theme=synthwave&layout=compact" alt="VishnuVardhanJS" /></p>
 
+<div>
 <h3 align="center">I Use Arch BTW!</h3> 
-
+<img alt="GitHub" src="https://raw.githubusercontent.com/JotaRandom/archlinux-artwork/a9029989166ef42e10251f9d0f0fd09e60be2f31/icons/archlinux-icon-crystal-32.svg">
+</div>
 </div>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
