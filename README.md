@@ -6,6 +6,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VishnuVardhanJS&show_icons=true&locale=en&theme=synthwave&layout=compact" alt="VishnuVardhanJS" /></p>
 
+<h3 align="center">I Use Arch BTW!</h3> 
+
 </div>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
